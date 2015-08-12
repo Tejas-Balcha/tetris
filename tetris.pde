@@ -243,7 +243,7 @@ void draw()
           // Game over
           fill(0);
           textSize(30);
-          text("GAME OVER. Press space", width/4, height/2); 
+          text("GAME OVER. Restart the application.", width/10, height/2); 
           return;
         }
       }
